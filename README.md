@@ -234,8 +234,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## About the Author
 
 **Sustainability Score Evaluator** was created by [iamvisheshsrivastava](https://github.com/iamvisheshsrivastava) and contributors who are passionate about leveraging technology to promote sustainable practices. If you have any questions or suggestions, feel free to reach out or create a new [Issue](https://github.com/iamvisheshsrivastava/SustainabilityScoreEvaluator/issues) on GitHub.
-
----
-
-**Thank you for using Sustainability Score Evaluator!** Together, we can work towards a more eco-friendly and sustainable future.
-
